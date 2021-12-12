@@ -1,1 +1,7 @@
  team 
+adding colors
+
+blue
+green
+pink
+black
