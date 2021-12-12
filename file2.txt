@@ -1,7 +1,15 @@
- team 
+my name is obulamma team 
+<<<<<<< HEAD
 adding colors
 
 blue
 green
 pink
 black
+=======
+these are states
+ap
+telangana
+uttharpradesh
+
+>>>>>>> teju2
