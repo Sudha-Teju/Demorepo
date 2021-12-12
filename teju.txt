@@ -1,8 +1,16 @@
-Hi 
-my name is teju
+Removing conflict
+`
+ey name is teju
+<<<<<<< HEAD
 Hello  
 
 adding colors
 
 red green
 blue
+=======
+hello 
+satates 
+ap
+telangana
+>>>>>>> sudha2
